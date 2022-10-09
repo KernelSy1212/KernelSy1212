@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KernelSy1212
+- 🌱 I’m currently learning JAVA
+- 📫 How to reach me (https://discord.gg/KGTapnwXQq)
