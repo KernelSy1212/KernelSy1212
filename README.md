@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AtrixMC<br><br>🌱 I’m currently learning Java<br><br>👨‍💻 All of my projects are available at https://kernelsy1212.eu/<br><br>📫 How to reach me https://discord.gg/KGTapnwXQq
+🔭 I’m currently working on AtrixMC<br><br>🌱 I’m currently learning Java , Lua , Python<br><br>👨‍💻 All of my projects are available at https://kernelsy1212.eu/<br><br>📫 How to reach me https://discord.gg/KGTapnwXQq
 
 
 ## 🌐 Socials:
